@@ -1,0 +1,140 @@
+/* IMPOSTAZIONI GENERALI */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+body {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+}
+
+footer {
+    background-color: #25a2c3;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 2rem 4rem;
+}
+
+header img {
+    width: 50%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+/* MAIN */
+
+main {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+/* ARTICLE */
+
+h1 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+h2 {
+    margin: 0.8rem;
+}
+
+div {
+    padding: 0.9rem 2rem;
+    width: 100%;
+}
+
+#Webdev {
+    background-image: url(../IMG/banner.jpg);
+    background-size: cover;
+    background-position: right;
+}
+
+article div button {
+    background-color: #f04c2f;
+    width: 7rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 4px;
+    margin: 1.5rem 0;
+}
+
+article div button a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#roundimg img {
+    width: 70%;
+    height: auto;
+    border-radius: 100%;
+}
+
+#orange {
+    background-color: #f04c2f;
+    color: white;
+}
+
+#orange h2 {
+    color: white;
+    font-size: 1.5rem;
+}
+
+cite {
+    font-style: italic;
+}
+
+#orange p:first-child {
+    font-weight: 100;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+
+.container {
+    width: 400px;
+}
+
+.container div {
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 5px;
+    margin-top: 0;
+}
+
+.container img {
+    width: 100%;
+    border-bottom: 0;
+}
+
+/* FOOTER */
+
+footer h2 {
+    color: white;
+    margin: 1rem;
+}
+
+footer ul, footer a {
+    color: #c8e7f0;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+footer p {
+    margin: 2em 0 3em 0
+}
