@@ -127,14 +127,19 @@ footer h2 {
     margin: 1rem;
 }
 
+footer ul {
+    margin-bottom: 1rem;
+}
+
 footer ul, footer a {
     color: #c8e7f0;
 }
 
 hr {
     border: 1px solid white;
+    width: 50%;
 }
 
 footer p {
-    margin: 2em 0 3em 0
+    margin: 1.3rem 0 3rem 0
 }
